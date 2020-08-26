@@ -3,6 +3,6 @@ title: Config sitios AFS DBConf
 chapter: "parametrizacion"
 ---
 
-El siguiente video pasaremos a  realizar una configuración de File Service Aranda y sitios AFS.
+El siguiente video pasaremos a  realizar una configuración de File Service Aranda y sitios AFS:
 
-[![]({{ site.baseurl }}/styleguide/images/video.jpg)](https://nats85.github.io/docs/"Video Title").
+<video width="380" height="300" controls> <source src="*" type="video/mp4"> Your browser does not support the video tag. </video>
