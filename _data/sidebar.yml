@@ -5,7 +5,7 @@ docs:
     chapter: "prerrequisitos"
   - title: Descarga fuentes de instalación
     chapter: "descarga"
-  - title: parametrizacion
-    chapter: "Parametrización inicial"
-  - title: proyecto
-    chapter: "Proyecto"
+  - title: Parametrización inicial
+    chapter: "parametrizacion"
+  - title: Proyecto
+    chapter: "proyecto"
