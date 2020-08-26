@@ -1,9 +1,11 @@
 docs:
-  - title: Instalación
-    chapter: "instalacion"
-  - title: Configuración
-    chapter: "configuracion"
-  - title: Agente
-    chapter: "agente"
-  - title: Copia
-    chapter: "copia"
+  - title: Preparación
+    chapter: "preparacion"
+  - title: Prerrequisitos
+    chapter: "prerrequisitos"
+  - title: Descarga fuentes de instalación
+    chapter: "descarga"
+  - title: parametrizacion
+    chapter: "Parametrización inicial"
+  - title: proyecto
+    chapter: "Proyecto"
