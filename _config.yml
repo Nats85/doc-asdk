@@ -24,6 +24,8 @@ language        : es
 ## Branding files
 styles          : /assets/css/style.css
 favicon         : /assets/branding/favicon.ico
+.sg_sidebar {  
+background: $orange;
 
 ## Enable to modify the CSS style
 #sass:
